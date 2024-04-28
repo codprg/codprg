@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm chalew shamero</h1>
-<h3 align="center">A passionate frontend developerand ethical hacker </h3>
+<h3 align="center">A passionate Frontend-Developer and Ethical Hacker </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codprg&label=Profile%20views&color=0e75b6&style=flat" alt="codprg" /> </p>
 
